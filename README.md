@@ -4,7 +4,7 @@
 
 ## Overview
 
-The function `LinearLeastSquareHH` computes the solution to a linear least squares problem of the form $ A \mathbf{x} = \mathbf{b} $ by applying Householder transformations. The Householder method is used to orthogonalize the matrix \( A \) and transform it into an upper triangular matrix \( R \), making it easier to solve the system.
+The function `LinearLeastSquareHH` computes the solution to a linear least squares problem of the form $A \mathbf{x} = \mathbf{b}$ by applying Householder transformations. The Householder method is used to orthogonalize the matrix \( A \) and transform it into an upper triangular matrix \( R \), making it easier to solve the system.
 
 ## Function Signature
 
